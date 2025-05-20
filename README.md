@@ -64,3 +64,7 @@ Add input support so users can choose any city
 Show other weather info like humidity, wind, etc.
 Use Plotly or Streamlit to make it interactive
 Schedule it to run daily and send the image via email or Telegram
+
+# output
+
+![Image](https://github.com/user-attachments/assets/471e0fb1-1c65-47de-8d15-b6fc01e3fe25)
